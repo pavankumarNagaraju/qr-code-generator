@@ -1,0 +1,11 @@
+﻿.git
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.venv
+venv
+.env
+*.log
+qr_codes
+logs
